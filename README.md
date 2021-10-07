@@ -12,9 +12,9 @@
 
 | EXPLORE  | CONNECT | BLOG POSTS  |
 |---|---|---|
-| [`ISSUES.md`](./explore/ISSUES.md)  | [Mentors](./MENTORS.md)  | [A curated list of beginner-friendly issues for Hacktoberfest 2021](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021)  | 
-| [`PROJECTS.md`](./explore/PROJECTS.md)  | [Mentees](./contributors/MENTEES.md)  | [Muddle through Hacktoberfest 2021 like a Pro](https://vinitshahdeo.dev/hacktoberfest-2021) 🎉  | 
-| [`EVENTS.md`](./explore/EVENTS.md) | [Admin](https://www.matrixio.tech/team)  | [Introduction to Git & Github. Create your first PR.](https://thisisamank.me/git-intro-hacktoberfest-2021)  | 
+| [`ISSUES.md`](./explore/ISSUES.md)  | [Mentors](./MENTORS.md)  |
+| [`PROJECTS.md`](./explore/PROJECTS.md)  | [Mentees](./contributors/MENTEES.md)  |
+| [`EVENTS.md`](./explore/EVENTS.md) | [Admin](https://www.matrixio.tech/team)  |
 
 Here's a home to your queries and quest for potential issues to contribute. We've compiled a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off! 🚀 
 
