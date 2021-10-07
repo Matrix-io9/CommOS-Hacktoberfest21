@@ -24,17 +24,13 @@ If you are a beginner, the [mentors](./MENTORS.md) will guide you on getting sta
 
 ❯ [Ask Your Doubts](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1) 💬
 
-❯ [Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FHacktoberfest2021&via=Vinit_Shahdeo&text=Here%27s%20a%20handpicked%20list%20of%20beginner-friendly%20issues%20%28%26%20repositories%29%20ahead%20of%20time%20so%20that%20you%20can%20get%20the%20ball%20rolling%20once%20Hacktoberfest%20kicks%20off%21%21&hashtags=Hacktoberfest%2Copensource%2Chacktoberfest2021%2CyourfirstPR) 📣
+❯ [Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMatrix-io9%2FCommOS-Hacktoberfest21&via=SubinSK6&text=Go%20make%20your%20first%20Pull%20Request%20and%20dive%20into%20Open%20Source%20Journey%20with%20us!&hashtags=Hacktoberfest%2Copensource%2Chacktoberfest2021%2CyourfirstPR) 📣
 
 ❯ [Find your mentor](./MENTORS.md) 🤝
 
 ❯ [Become a mentor](#mentoring) 🙌
 
 ❯ [Add beginner-friendly issues](#contributing) 🙏
-
-❯ [Read the blog](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) 📖
-
-❯ [Request an event](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/new?assignees=vinitshahdeo&labels=event-request&template=event-request.md&title=Request+for+an+event) ⭐
 
 Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
