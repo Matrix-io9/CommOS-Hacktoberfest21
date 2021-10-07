@@ -22,6 +22,8 @@ If you are a beginner, the [mentors](./MENTORS.md) will guide you on getting sta
 
 ❯ [Your First PR](#your-first-pr) 🔥
 
+> [Git Cheat Commands Sheet](https://subinsk.hashnode.dev/git-commands-cheat-sheet) 📜
+
 ❯ [Ask Your Doubts](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1) 💬
 
 ❯ [Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMatrix-io9%2FCommOS-Hacktoberfest21&via=SubinSK6&text=Go%20make%20your%20first%20Pull%20Request%20and%20dive%20into%20Open%20Source%20Journey%20with%20us!&hashtags=Hacktoberfest%2Copensource%2Chacktoberfest2021%2CyourfirstPR) 📣
