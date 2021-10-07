@@ -10,8 +10,8 @@
 
 ### Quick Links
 
-| EXPLORE  | CONNECT | BLOG POSTS  |
-|---|---|---|
+| EXPLORE  | CONNECT |
+|---|---|
 | [`ISSUES.md`](./explore/ISSUES.md)  | [Mentors](./MENTORS.md)  |
 | [`PROJECTS.md`](./explore/PROJECTS.md)  | [Mentees](./contributors/MENTEES.md)  |
 | [`EVENTS.md`](./explore/EVENTS.md) | [Admin](https://www.matrixio.tech/team)  |
