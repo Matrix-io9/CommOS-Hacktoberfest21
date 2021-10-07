@@ -46,7 +46,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 
 | Serial No. | Repository  | Issues  | Pull Requests  | Forks |
 |:--|:--|:--|:--|:--|
-| 1. | [inspirational-quotes](https://github.com/Matrix-io9/inspirational-quotes)  | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/inspirational-quotes?color=red&logo=github&style=flat-square)](https://github.com/Matrix-io9/CommOS-Hacktoberfest21/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/inspirational-quotes?style=social&logo=github)](https://github.com/Matrix-io9/inspirational-quotes/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/inspirational-quotes?style=flat-square&logo=git)](https://github.com/Matrix-io9/inspirational-quotes/network) |
+| 1. | [inspirational-quotes](https://github.com/Matrix-io9/inspirational-quotes)  | [![GitHub issues](https://img.shields.io/github/issues/Matrix-io9/inspirational-quotes?color=red&logo=github&style=flat-square)](https://github.com/Matrix-io9/CommOS-Hacktoberfest21/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Matrix-io9/inspirational-quotes?style=social&logo=github)](https://github.com/Matrix-io9/inspirational-quotes/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/Matrix-io9/inspirational-quotes?style=flat-square&logo=git)](https://github.com/Matrix-io9/inspirational-quotes/network) |
 
 <sup>DISCLAIMER: We keep a check on all the projects being added to the list but there might still be a few projects which is excluded. Please be cautious about the same. Thanks for your cooperation to make this space better.</sup>
 
