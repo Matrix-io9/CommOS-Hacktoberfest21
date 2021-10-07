@@ -76,6 +76,7 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 
 If you're interested to become a mentor to help beginners kickstart their open-source journey, **please submit your details [here](https://forms.gle/YLNf7DB7vjHEQHcGA)**. Post the Google form submission, please raise a PR ([template](https://github.com/Matrix-io9/CommOS-Hacktoberfest21/blob/main/ADD_NEW_MENTOR.md)) to add your name to [`MENTORS.md`](./MENTORS.md). 
 
+
 As a mentor, you will:
 
 🙏  **resolve beginner's doubts**
