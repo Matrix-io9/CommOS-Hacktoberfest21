@@ -38,7 +38,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 
 | Serial No. | Repository| Link to Issue  | Language |
 |:--|:--|:--|:--|
-| 1. | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | `JavaScript`  |
+| 1. | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | Text |
 
 ### Find complete list of beginner-friendly issues at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
 
