@@ -22,7 +22,7 @@ If you are a beginner, the [mentors](./MENTORS.md) will guide you on getting sta
 
 ❯ [Your First PR](#your-first-pr) 🔥
 
-> [Git Cheat Commands Sheet](https://subinsk.hashnode.dev/git-commands-cheat-sheet) 📜
+❯ [Git Cheat Commands Sheet](https://subinsk.hashnode.dev/git-commands-cheat-sheet) 📜
 
 ❯ [Ask Your Doubts](https://github.com/Matrix-io9/CommOS-Hacktoberfest21/discussions/1) 💬
 
