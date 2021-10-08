@@ -12,9 +12,9 @@
 
 | EXPLORE  | CONNECT |
 |---|---|
-| [`ISSUES.md`](./explore/ISSUES.md)  | [Mentors](./MENTORS.md)  |
-| [`PROJECTS.md`](./explore/PROJECTS.md)  | [Mentees](./contributors/MENTEES.md)  |
-| [`EVENTS.md`](./explore/EVENTS.md) | [Admin](https://www.matrixio.tech/team)  |
+| [`ISSUES.md`](./ISSUES.md)  | [Mentors](./MENTORS.md)  |
+| [`PROJECTS.md`](./PROJECTS.md)  | [Mentees](./contributors/MENTEES.md)  |
+| [`EVENTS.md`](./EVENTS.md) | [Admin](https://www.matrixio.tech/team)  |
 
 Here's a home to your queries and quest for potential issues to contribute. We've compiled a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off! 🚀 
 
