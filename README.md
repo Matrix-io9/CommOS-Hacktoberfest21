@@ -2,7 +2,7 @@
 [![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)](https://vinitshahdeo.dev/hacktoberfest-2021)
 # CommOS Hacktoberfest 2021
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/subinsk) [![GitHub license](https://img.shields.io/github/license/Matrix-io9/CommOS-Hacktoberfest21?logo=GITHUB&style=flat)](https://github.com/Matrix-io9/CommOS-Hacktoberfest21/blob/main/LICENSE) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmatrix-io9%2FCommOS-Hacktoberfest21&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://matrix-io9.github.io/CommOS-Hacktoberfest21/)  [![Join our Discord](https://img.shields.io/badge/Join-Discord-8CA1A5?logo=discord&logoColor=white)](https://discord.gg/7AEyUhkn)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/subinsk) [![GitHub license](https://img.shields.io/github/license/Matrix-io9/CommOS-Hacktoberfest21?logo=GITHUB&style=flat)](https://github.com/Matrix-io9/CommOS-Hacktoberfest21/blob/main/LICENSE) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatrix-io9%2FCommOS-Hacktoberfest21&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://matrix-io9.github.io/CommOS-Hacktoberfest21/)  [![Join our Discord](https://img.shields.io/badge/Join-Discord-8CA1A5?logo=discord&logoColor=white)](https://discord.gg/7AEyUhkn)
 
 > ### A community-led mentorship initiative to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge.
 
@@ -24,7 +24,7 @@ If you are a beginner, the [mentors](./MENTORS.md) will guide you on getting sta
 
 > [Git Cheat Commands Sheet](https://subinsk.hashnode.dev/git-commands-cheat-sheet) 📜
 
-❯ [Ask Your Doubts](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1) 💬
+❯ [Ask Your Doubts](https://github.com/Matrix-io9/CommOS-Hacktoberfest21/discussions/1) 💬
 
 ❯ [Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMatrix-io9%2FCommOS-Hacktoberfest21&via=SubinSK6&text=Go%20make%20your%20first%20Pull%20Request%20and%20dive%20into%20Open%20Source%20Journey%20with%20us!&hashtags=Hacktoberfest%2Copensource%2Chacktoberfest2021%2CyourfirstPR) 📣
 
@@ -40,9 +40,9 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 
 | Serial No. | Repository| Link to Issue  | Language |
 |:--|:--|:--|:--|
-| 1. | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | Text |
+| 1. | [inspirational-quotes](https://github.com/Matrix-io9/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/Matrix-io9/inspirational-quotes/issues/1)  | Text |
 
-### Find complete list of beginner-friendly issues at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
+### Find complete list of beginner-friendly issues at [`ISSUES.md`](https://github.com/Matrix-io9/CommOSHacktoberfest21/blob/main/ISSUES.md)
 
 ## Beginner-friendly repositories
 
